@@ -6,3 +6,4 @@ Based on [this prompt](https://github.com/karan/Projects#classic-algorithms).
 
 * **collatz.py**: A simple collatz conjecture.
 * **merge-sort.py**: An implementation of a merge sort algorithm.
+* **bubble-sort.py**: An implementation of a bubble sort algorithm.
