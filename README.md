@@ -8,3 +8,4 @@ Based on [this prompt](https://github.com/karan/Projects#classic-algorithms).
 * **merge-sort.py**: An implementation of a merge sort algorithm.
 * **bubble-sort.py**: An implementation of a bubble sort algorithm.
 * **closest-pair.py**: An implementation of the closest pair problem
+* **sieve.py**: The sieve of eratosthenes, used to find all prime numbers below 10 million or so.
